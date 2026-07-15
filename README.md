@@ -1,5 +1,18 @@
 # readonly — A read-only San persona
 
+> [!IMPORTANT]
+> **This persona has moved to [genai-io/personas](https://github.com/genai-io/personas).**
+>
+> This repo is archived and no longer updated. The persona now lives alongside
+> the others at `personas/readonly/`.
+>
+> The clone commands below still work and still install a working persona, but
+> this copy is frozen. Prefer:
+>
+> ```bash
+> curl -fsSL https://raw.githubusercontent.com/genai-io/personas/main/install.sh | bash -s -- readonly --user
+> ```
+
 Answers questions, analyzes code, debugs environments. Cannot write.
 Environment protection + ~80% token savings.
 
